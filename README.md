@@ -1,6 +1,7 @@
-## Hi there, I'm Bokhtiar tushar 👋
+## Hi there, I'm Bokhtiar Toshar, 👋
 
-### I'm a Student, Learner, Dreamer, and a Developer
+### graduation  from daffodil international university in software engineering department,
+the official experience starts in 2021 January.
 
 - 🔭 I’m currently working on PHP(Laravel)
 - 🔭 I’m currently working on Laravel with Vuejs
