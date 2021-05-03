@@ -24,8 +24,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
-<img align="left" alt="Power Bi" width="26px" src="https://www.next-step.es/wp-content/uploads/2017/06/Power-BI.png" />
+<img align="left" alt="SAS" width="26px" src="https://pbs.twimg.com/profile_images/1163911054788833282/AcA2LnWL_400x400.jpg" />
 <img align="left" alt="SAS" width="26px" src="https://download.logo.wine/logo/Scandinavian_Airlines/Scandinavian_Airlines-Logo.wine.png" />
 <img align="left" alt="GIS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/600px-ArcGIS_logo.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
