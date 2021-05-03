@@ -14,6 +14,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bokhtiar-toshar-3bb9331b0/) 
 [<img src = "https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo">](https://www.facebook.com/bokhtiar172/) 
+[<img src = "https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo">](https://www.instagram.com/bokhtiar_tushar/) 
 
 <br>
 
@@ -29,7 +30,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-<h3">Laravel Complete Topic for me:</h4>
+<h3>Laravel Complete Topic for me:</h3>
 - Laravel API development. <br>
 - Laravel API Data Fatch. <br>
 - Laravel + Vuejs Learning. <br>
