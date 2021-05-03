@@ -47,7 +47,5 @@
 - Login Email Attempt.<br>
 - Strong Password.<br>
 - Modules Package.<br>
-
-
 <br />
 
