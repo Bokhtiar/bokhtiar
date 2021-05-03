@@ -17,7 +17,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bokhtiar-toshar-3bb9331b0/) 
 [<img src = "https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo">](https://www.facebook.com/bokhtiar172/) 
-[<img src = "https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo">](https://www.instagram.com/bokhtiar_tushar/) 
+
 
 <br>
 
