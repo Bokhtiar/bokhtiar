@@ -2,7 +2,10 @@
 
 ### I'm a Student, Learner, Dreamer, and a Developer
 
-- 🔭 I’m currently working on PHP
+- 🔭 I’m currently working on PHP(Laravel)
+- 🔭 I’m currently working on Laravel with Vuejs
+- 🔭 I’m currently working on Laravel with Ajax
+- 🔭 I Have Done client-based project complete
 - 🌱 I’m looking to collaborate on Laravel
 - 👯 I’m also trying to learn web develodment 
 - 🥅 Contribute more to Open Source projects.
