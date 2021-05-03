@@ -1,11 +1,10 @@
 ## Hi there, I'm Bokhtiar Toshar, 👋
 
-### graduation  from daffodil international university in software engineering department,
-the official experience starts in 2021 January.
+### graduation  from daffodil international university in software engineering department,the official experience starts in 2021 January.
 
 - 🔭 I’m currently working on PHP(Laravel)
-- 🔭 I’m currently working on Laravel with Vuejs
-- 🔭 I’m currently working on Laravel with Ajax
+- 🥅 I’m currently working on Laravel with Vuejs
+- 🌱 I’m currently working on Laravel with Ajax
 - 🔭 I Have Done client-based project complete
 - 🌱 I’m looking to collaborate on Laravel
 - 👯 I’m also trying to learn web develodment 
