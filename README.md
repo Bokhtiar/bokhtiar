@@ -29,20 +29,20 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-- 🥅 Laravel Complete Topic for me:
-### Laravel API development.
-### Laravel API Data Fatch.
-### Laravel + Vuejs Learning.
-### Laravel + ajax.
-### Modules Package.
-### Modules Package.
-### Repository Pattern.
-### Helper Function.
-### Trait.
-### Task Scheduling.
-### Login Email Attempt.
-### Strong Password.
-### Modules Package.
+Laravel Complete Topic for me:
+- Laravel API development.
+- Laravel API Data Fatch.
+- Laravel + Vuejs Learning.
+- Laravel + ajax.
+- Modules Package.
+- Modules Package.
+- Repository Pattern.
+- Helper Function.
+- Trait.
+- Task Scheduling.
+- Login Email Attempt.
+- Strong Password.
+- Modules Package.
 
 
 <br />
