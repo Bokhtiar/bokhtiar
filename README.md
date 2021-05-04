@@ -33,25 +33,34 @@
 <img align="left" alt="GitHub" width="40px" src="https://i.dlpng.com/static/png/6622001_preview.png" />
 <br />
 
-<table id="customers">
-  <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-  </tr>
-  <tr>
-    <td>HTML</td>
-    <td>CSS</td>
-    <td>JAVASCRIPT</td>
-    <td>AJAX</td>
-    <td>BOOTSTRAP</td>
-    <td>VUEJS</td>
-  </tr>
-  <tr>
-    <td>PHP</td>
-    <td>LARAVEL</td>
-  </tr>
 
-</table>
+
+<style>
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    border: 2px solid yellow;
+}  
+
+.flex-child:first-child {
+    margin-right: 20px;
+} 
+</style>
+<div class="flex-container">
+
+  <div class="flex-child magenta">
+    Flex Column 1
+  </div>
+  
+  <div class="flex-child green">
+    Flex Column 2
+  </div>
+  
+</div>
+
 
 
 <h3>Laravel Complete Topic for me:</h3>
