@@ -21,7 +21,7 @@
 
 <br>
 
-### Languages and Tools:
+### Languages:
 
 <img align="left" alt="SAS" width="26px" src="https://pbs.twimg.com/profile_images/1163911054788833282/AcA2LnWL_400x400.jpg" />
 <img align="left" alt="SAS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" />
