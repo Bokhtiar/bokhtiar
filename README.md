@@ -34,35 +34,6 @@
 <br />
 
 
-<body>
-<style>
-.flex-container {
-    display: flex;
-}
-
-.flex-child {
-    flex: 1;
-    border: 2px solid yellow;
-}  
-
-.flex-child:first-child {
-    margin-right: 20px;
-} 
-</style>
-<div class="flex-container">
-
-  <div class="flex-child magenta">
-    Flex Column 1
-  </div>
-  
-  <div class="flex-child green">
-    Flex Column 2
-  </div>
-  
-</div>
-</body>
-
-
 <h3>Laravel Complete Topic for me:</h3>
 - Laravel API development. <br>
 - Laravel API Data Fatch. <br>
