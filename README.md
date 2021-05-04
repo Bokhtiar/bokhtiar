@@ -40,13 +40,12 @@
 - Laravel + Vuejs Learning. <br>
 - Laravel + ajax.<br>
 - Modules Package.<br>
-- Modules Package.<br>
 - Repository Pattern.<br>
 - Helper Function.<br>
 - Trait.<br>
 - Task Scheduling.<br>
 - Login Email Attempt.<br>
 - Strong Password.<br>
-- Modules Package.<br>
+
 <br />
 
