@@ -23,15 +23,15 @@
 
 ### Languages:
 
-<img align="left" alt="SAS" width="26px" src="https://pbs.twimg.com/profile_images/1163911054788833282/AcA2LnWL_400x400.jpg" />
-<img align="left" alt="SAS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" />
-<img align="left" alt="SAS" width="26px" src="https://www.w3schools.com/whatis/img_ajax.jpg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://p7.hiclipart.com/preview/162/309/85/bootstrap-responsive-web-design-web-development-logo-django-others.jpg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="SAS" width="40px" src="https://pbs.twimg.com/profile_images/1163911054788833282/AcA2LnWL_400x400.jpg" />
+<img align="left" alt="SAS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" />
+<img align="left" alt="SAS" width="40px" src="https://www.w3schools.com/whatis/img_ajax.jpg" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Bootstrap" width="40px" src="https://p7.hiclipart.com/preview/162/309/85/bootstrap-responsive-web-design-web-development-logo-django-others.jpg" />
+<img align="left" alt="GitHub" width="40px" src="https://icon2.cleanpng.com/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg" />
+<img align="left" alt="GitHub" width="40px" src="https://i.dlpng.com/static/png/6622001_preview.png" />
 
 <br />
 <h3>Laravel Complete Topic for me:</h3>
