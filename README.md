@@ -34,7 +34,7 @@
 <br />
 
 
-
+<body>
 <style>
 .flex-container {
     display: flex;
@@ -60,7 +60,7 @@
   </div>
   
 </div>
-
+</body>
 
 
 <h3>Laravel Complete Topic for me:</h3>
