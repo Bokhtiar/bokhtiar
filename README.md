@@ -46,7 +46,8 @@
 - Task Scheduling.<br>
 - Login Email Attempt.<br>
 - Strong Password.<br>
-
+- Pdf Generator. <br>
+- Etc...
 <h3>I have done work my client project </h3>
  #Ecommerce [https://vert-2-gris.net/]. <br>
  #Restaurant management system [http://dishmize.org/].<br>
