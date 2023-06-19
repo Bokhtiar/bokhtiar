@@ -1,55 +1,27 @@
-## Hi there, I'm Bokhtiar Toshar, 👋
 
-### graduation  from daffodil international university. department of software engineering, the official experience starts in 2021 January.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bokhtiar172) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bokhtiar_tushar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bokhtiarswe) 
 
-- 🔭 I’m currently working on PHP(Laravel)
-- 🥅 I’m currently working on Laravel with Vuejs
-- 🌱 I’m currently working on Laravel with Ajax
-- 🔭 I Have Done client-based multiple project complete
-- 🌱 I’m looking to collaborate on Laravel
-- 👯 I’m also trying to learn web develodment 
-- 🥅 Contribute more to Open Source projects.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Bokhtiar&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bokhtiar&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bokhtiar&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Bokhtiar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Bokhtiar)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Bokhtiar&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bokhtiar-toshar-3bb9331b0/) 
-[<img src = "https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo">](https://www.facebook.com/bokhtiar172/) 
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
+---
+[![](https://visitcount.itsvg.in/api?id=Bokhtiar&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<br>
-
-### Languages:
-<img align="left" alt="SAS" width="40px" src="https://pbs.twimg.com/profile_images/1163911054788833282/AcA2LnWL_400x400.jpg" />
-<img align="left" alt="SAS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" />
-<img align="left" alt="SAS" width="40px" src="https://www.w3schools.com/whatis/img_ajax.jpg" />
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Bootstrap" width="40px" src="https://p7.hiclipart.com/preview/162/309/85/bootstrap-responsive-web-design-web-development-logo-django-others.jpg" />
-<img align="left" alt="GitHub" width="40px" src="https://icon2.cleanpng.com/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg" />
-<img align="left" alt="GitHub" width="40px" src="https://i.dlpng.com/static/png/6622001_preview.png" />
-<br />
-
-
-<h3>Laravel Complete Topic for me:</h3>
-- Laravel API development. <br>
-- Laravel API Data Fatch. <br>
-- Laravel + Vuejs Learning. <br>
-- Laravel + ajax.<br>
-- Modules Package.<br>
-- Repository Pattern.<br>
-- Helper Function.<br>
-- Trait.<br>
-- Task Scheduling.<br>
-- Login Email Attempt.<br>
-- Strong Password.<br>
-- Pdf Generator. <br>
-- Laravel Socialite Login With Google. <br>
-- Etc...
-<h3>I have done work my client project </h3>
- #Ecommerce [https://vert-2-gris.net/]. <br>
- #Restaurant management system [http://dishmize.org/].<br>
- #Content Sharing [http://www.gamingzonebd.com/].<br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
